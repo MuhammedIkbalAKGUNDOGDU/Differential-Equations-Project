@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1701953326 source:c:\users\muham\onedrive\documents\code blocks c\diferansiyelproje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<ctype.h>
+
